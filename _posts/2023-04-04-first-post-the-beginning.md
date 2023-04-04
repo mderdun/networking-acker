@@ -4,7 +4,10 @@
 
 ---
 ### behind-the-scenes progeny
-    I'll leave my personal enthusiasms for pursuing Acker till the end of this journey lest I embarass myself and make my personal attachment official (which would suck in the unfortunate case it fails entirely), and instead get right into my current thoughts on the project.
+    I'll leave my personal enthusiasms for pursuing Acker till the end of this journey 
+    lest I embarass myself and make my personal attachment official 
+    (which would suck in the unfortunate case it fails entirely), 
+    and instead get right into my current thoughts on the project.
 
 I've been at work whittling down direction and methodologies for about a week now. The beginnings of my thought process stemmed from an orientation that has proved fruitful to me in the past. In my notebook I wrote:
     
