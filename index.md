@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+This project blog is devoted to a current undergraduate English Literature dissertation on the American writer, Kathy Acker. Acker (1947-1997) was known for her experimental prose and feminist themes, which challenged traditional notions of genre, narrative, gender, and self. The dissertation will examine Acker's networks, reception, and afterlives, with a focus on digital humanities methods. I'm particularly interested, in light of the recent growth in Acker-appreciation, how sentiment has evolved and is currently evolving. This blog will offer a record of my process, from beginning to end.
